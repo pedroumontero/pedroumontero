@@ -1,16 +1,21 @@
-## Hi there 👋
+# Pedro Urribarri
 
-<!--
-**pedroumontero/pedroumontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation & AI Engineer focused on **Sales & CRM Systems**.  
+I design and build end-to-end automation that replaces manual processes with **structured, scalable systems**.
 
-Here are some ideas to get you started:
+## What I build
+- Lead Capture → Normalization → Business Logic → CRM → Reporting (E2E)
+- n8n workflows, webhooks, routing & notifications
+- MySQL validation, dedupe & data integrity
+- Perfex CRM integrations (custom fields, ownership, KPIs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Architecture
+🔹 **Sales & CRM Automation Architecture (E2E)**  
+👉 https://github.com/pedroumontero/sales-crm-automation-architecture
+
+## Stack
+n8n • MySQL • WordPress • Perfex CRM • APIs • Webhooks
+
+## Contact
+🌐 https://evolution-grp.com  
+🔗 LinkedIn: (pega aquí tu LinkedIn)
